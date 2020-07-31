@@ -1,3 +1,8 @@
+Download content.sqlite from
+https://www.py4e.com/data_space/content.sqlite.zip
+
+
+
 Analyzing an EMAIL Archive from gmane and vizualizing the data
 using the D3 JavaScript library
 
